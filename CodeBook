@@ -11,7 +11,7 @@ ACTIVITY
       5- Standing
       6- Lying
 
-Numeric measurements from the accelerometer and gyroscope:
+Average of numeric measurements from the accelerometer and gyroscope:
 
 "tBodyAcc-MeanX"               
 "tBodyAcc-MeanY"  
