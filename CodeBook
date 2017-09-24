@@ -1,0 +1,12 @@
+SUBJECT
+      Person who carried out the experiment 
+      ID from 1 to 30 
+
+ACTIVITY
+      Type of activity performed by the user during the experiment when measuring
+      1- Walking
+      2- Walking upstairs
+      3- Walking downstairs
+      4- Sitting
+      5- Standing
+      6- Lying
