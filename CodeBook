@@ -1,8 +1,8 @@
-SUBJECT
+"Subject"
       Person who carried out the experiment 
       ID from 1 to 30 
 
-ACTIVITY
+"Activity"
       Type of activity performed by the user during the experiment when measuring
       1- Walking
       2- Walking upstairs
